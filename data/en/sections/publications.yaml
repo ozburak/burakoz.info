@@ -3,7 +3,7 @@ section:
   name: Publications
   id: publications
   enable: true
-  weight: 6
+  weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -12,12 +12,17 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: "Machine Learning"
-  filter: "machinelearning"
-- name: "Image Processing"
-  filter: "image-processing"
-- name: Security
-  filter: "security"
+
+- name: "Information Technologies"
+  filter: "it"
+- name: "Artificial Intelligence"
+  filter: "ai"
+- name: "Supply Chain Management"
+  filter: "scm"
+- name: "Digital Nudging"
+  filter: "digitalnudging"
+- name: Teaching
+  filter: "teaching"
 
 # your publications
 publications:
@@ -61,22 +66,20 @@ publications:
   categories: ["image-processing"]
   tags: ["Image Processing", "Computer Vision"]
 
-- title: An Example Paper on Security
+- title: Order picking oriented storage assignment problem in a vertical lift module system
   publishedIn:
-    name: 2020 IEEE Region Symposium (TENSYMP)
-    date: 7 June 2020
-    url: https://example.com
+    name: METU Thesis Library
+    date: December 2019
+    url: https://open.metu.edu.tr/bitstream/handle/11511/45232/index.pdf
   authors:
-  - name: Dr. Madman
-    url: https://example.com
-  - name: Dr. Lessmad
-    url: https://example.com
-  - name: Dr. Moremad
-    url: https://example.com
-  - name: Dr. Goodman
-    url: https://example.com
+  - name: Burak Oz
+    url: https://burakoz.info
+  - name: Dr. Sakine Batun
+    url: https://ie.metu.edu.tr/en/sakine-batun-assist-prof-dr
+  - name: Dr. Haldun Sural
+    url: https://scholar.google.com.au/citations?user=sv-eCq0AAAAJ&hl=en
   paper:
-    summary: Dolor ad cupidatat pariatur nulla ipsum ex ullamco nisi anim ullamco. Dolore elit esse in exercitation minim aliqua. Amet velit incididunt magna laboris. Proident reprehenderit deserunt ad officia duis dolor. Tempor nostrud ullamco ullamco sint deserunt cupidatat irure minim consectetur nulla adipisicing sunt.
-    url: https://example.com
-  categories: ["security"]
-  tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
+    summary: A super fun and practically relevant work on optimizing order picking times of vertical lift modules. A mathematical model to locate parts that are requested together on the same tray so that operators wait for less machine tray changes.
+    url: https://open.metu.edu.tr/bitstream/handle/11511/45232/index.pdf
+  categories: ["scm"]
+  tags: ["Optimization", "Mathematical Modelling", "Simulation", "Efficiency"]
