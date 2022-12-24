@@ -8,12 +8,13 @@ image: "images/author/burak.png"
 contactInfo:
   email: "burakoz@msn.com"
   github: ozburak
-  linkedin: oz_burak
+  linkedin: ozburak
 
 # some summary about what you do
 summary:
   - I am a Researcher
-  - I am a Teacher
   - I am an Engineer
-  - I love servers
-  - I love to work on servers and bicycles
+  - I am a Teacher
+  - I love to work on fun tech projects
+  - I love open-source projects
+  - I love steel road bikes
