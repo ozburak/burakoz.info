@@ -58,10 +58,7 @@ degrees:
   - title: Order picking oriented storage assignment problem in a vertical lift module system
     url: "https://open.metu.edu.tr/bitstream/handle/11511/45232/index.pdf"
   extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
+  - Full-time work as a manufacturing engineer at FNSS
 - name: B.Sc. in Industrial Engineering
   icon: fa-university
   timeframe: 2011-2016
@@ -72,9 +69,8 @@ degrees:
     #scale: GPA
     #achieved: 5
     #outOf: 5
-  #extracurricularActivities: #(optional)
-  #- In vitae facilisis est, eget porta sem.
-  #- Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
+  extracurricularActivities: #(optional)
+  - Radio host and production expert at Radyo ODTU
   #- Duis sed massa feugiat, ornare justo et, aliquam est.
   #- Pellentesque ut fringilla magna.
 #- name: Secondary School Certificate
