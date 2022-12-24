@@ -10,12 +10,13 @@ languages:
   en:
     languageName: English
     weight: 1
-  tr:
-    languageName: Türkçe
-    weight: 2
-  fr:
-    languageName: Français
-    weight: 3
+  
+  #tr:
+  #  languageName: Türkçe
+  #  weight: 2
+  #fr:
+  #  languageName: Français
+  #  weight: 3
 
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
 # DefaultContentLanguage: bn
@@ -75,7 +76,7 @@ params:
       enable: true
     # Enable and configure blog posts
     blog:
-      enable: true
+      enable: false
       # Share post on different social media
       shareButtons:
         facebook: true
@@ -91,7 +92,7 @@ params:
 
     # Enable & configure "Notes" features
     notes:
-      enable: true
+      enable: false
 
     # Enable comment feature. There, should be only one of them.
     comment:
