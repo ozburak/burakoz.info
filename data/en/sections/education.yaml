@@ -10,81 +10,79 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Ph.D in Quantum Cryptography
+- name: Ph.D in Information Technologies
   icon: fa-microscope
-  timeframe: 2016-2020
+  timeframe: 2020-ongoing
   institution:
-    name: ABC University of Technology
-    url: "#"
+    name: HEC Montréal
+    url: "https://hec.ca"
   grade: #(optional)
-    scale: CGPA
-    achieved: 3.6
-    outOf: 4
+    #scale: CGPA
+    #achieved: 3.6
+    #outOf: 4
   publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
-  - title: Nullam vitae orci tincidunt purus viverra pulvinar.
-    url: "#"
-- name: B.Sc. in Computer Science & Engineering
+  - title: Using Digital Nudges on Analytics Dashboards to Reduce Anchoring Bias
+    url: "https://aisel.aisnet.org/sighci2020/3/"
+  - title: IT-Based Learning Tools to Introduce Sustainability Problems to Management Students: A Scoping Review
+    url: "https://aisel.aisnet.org/amcis2021/is_education/sig_education/15/"
+  - title: Teaming Models with Intelligent Systems at the Workplace
+    url: "https://aisel.aisnet.org/wi2022/workshops/workshops/2/"
+- name: M.Sc. in Industrial Engineering
   icon: fa-graduation-cap
-  timeframe: 2012-2016
+  timeframe: 2017-2019
   institution:
-    name: University of XYZ
-    url: "#"
+    name: Middle East Technical University
+    url: "https://metu.edu.tr"
   grade: #(optional)
-    scale: CGPA
-    achieved: 3.5
-    outOf: 4
+    #scale: CGPA
+    #achieved: 3.5
+    #outOf: 4
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: true
-    collapseAfter: 3
-    courses:
-    - name: Data Structures and Algorithm
-      achieved: 3.75
-      outOf: 4
-    - name: Network Security
-      achieved: 3.80
-      outOf: 4
-    - name: Operating System
-      achieved: 3.5
-      outOf: 4
-    - name: Artificial Intelligent
-      achieved: 3.75
-      outOf: 4
+    #showGrades: true
+    #collapseAfter: 3
+    #courses:
+    #- name: Data Structures and Algorithm
+    #  achieved: 3.75
+    #  outOf: 4
+    #- name: Network Security
+    #  achieved: 3.80
+    #  outOf: 4
+    #- name: Operating System
+    #  achieved: 3.5
+    #  outOf: 4
+    #- name: Artificial Intelligent
+    #  achieved: 3.75
+    #  outOf: 4
   publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
+  - title: Order picking oriented storage assignment problem in a vertical lift module system
+    url: "https://open.metu.edu.tr/bitstream/handle/11511/45232/index.pdf"
   extracurricularActivities: #(optional)
   - In vitae facilisis est, eget porta sem.
   - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
   - Duis sed massa feugiat, ornare justo et, aliquam est.
   - Pellentesque ut fringilla magna.
-- name: Higher Secondary School Certificate
+- name: B.Sc. in Industrial Engineering
   icon: fa-university
-  timeframe: 2010-2012
+  timeframe: 2011-2016
   institution:
-    name: MST College of Science
-    url: "#"
+    name: Middle East Technical University
+    url: "https://metu.edu.tr"
   grade: #(optional)
-    scale: GPA
-    achieved: 5
-    outOf: 5
-  extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-- name: Secondary School Certificate
-  icon: fa-school
-  timeframe: 2005-2010
-  institution:
-    name: JK School of Science
-  grade: #(optional)
-    scale: GPA
-    achieved: 4.5
-    outOf: 5
+    #scale: GPA
+    #achieved: 5
+    #outOf: 5
+  #extracurricularActivities: #(optional)
+  #- In vitae facilisis est, eget porta sem.
+  #- Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
+  #- Duis sed massa feugiat, ornare justo et, aliquam est.
+  #- Pellentesque ut fringilla magna.
+#- name: Secondary School Certificate
+  #icon: fa-school
+  #timeframe: 2005-2010
+  #institution:
+  #  name: JK School of Science
+  #grade: #(optional)
+  #  scale: GPA
+  #  achieved: 4.5
+  #  outOf: 5
