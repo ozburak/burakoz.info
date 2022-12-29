@@ -51,3 +51,15 @@ experiences:
       -Capacity planning, facility layout design, simulation of the production flow on a discrete event simulation software, and reporting the results.
     In addition to those tasks, I have also been trained as an internal auditor and took part in the integrated management systems internal audits (ISO 9001, ISO 14001, and ISO 45001).
 
+- company:
+    name: Siemens Mobility
+    url: "https://www.mobility.siemens.com/global/en.html"
+    location: Istanbul
+    overview: Siemens Mobility is the transportation division of the German giant. It provides sustainable public transport solutions, mainly for rail.
+  positions:
+  - designation: Intern
+    start: Jun 2015
+    end: Jul 2015
+    responsibilities:
+    I am a public transportation nerd! I have always been interested in beautiful giants, especially the ones in the form of buses and trains. Therefore, I had one of the most fun internship experiences in Siemens Mobility.
+    In my two-month intrenship, I developed an algorithm to solve a packing problem. Then, I implemented that algorithm on Excel VBA and designed an Excel file in the form of a "Decision Support System." This small software saved an expert's 10 hours a month, approximately.
