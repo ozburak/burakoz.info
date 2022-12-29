@@ -2,8 +2,8 @@
 section:
   name: Skills
   id: skills
-  enable: true
-  weight: 2
+  enable: false
+  weight: 5
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -11,9 +11,9 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
+- name: Teaching with ERPsim
   logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+  summary: "Capable of ."
   url: "https://kubernetes.io/"
 
 - name: Go Development
