@@ -11,54 +11,43 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: HEC Montréal
+    url: "https://hec.ca"
+    location: Montréal
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: HEC Montréal is one of the leading business schools in Canada.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Instructor: Information Technologies in Organizations
+    start: Aug 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
+    end: Dec 2022
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
-
+    I taught this course to classes of 70 students for two semesters, both in-person.
+      - Value of information technologies, business intelligence, and business analytics,
+      - Managing an information technology project,
+      - Business Process Management Notation (BPMN) diagrams,
+      - Business process improvement principles,
+      - Enterprise Resource Planning (ERP) software and its use (SAP with the Fiori interface),
+      - Advanced data analytics using PivotTables, PivotCharts and advanced functions on Microsoft Excel,
+      - Relational databases and advanced query design using Microsoft Access.
+      
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: FNSS Savunma Sistemleri A.S.
+    url: "https://www.fnss.com.tr"
+    location: Ankara
+    overview: FNSS Savunma Sistemleri is a leading company in the defense industry of Turkey. It is specialized in the design and production of armored land vehicles.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Manufacturing Engineer
+    start: Jun 2016
+    end: Jun 2019
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    I took different roles in various projects with IT in manufacturing at the center of their vision. Some examples include;
+      -In-house development of a 'paperless shop floor' manufacturing execution system with full ERP integration,
+      -Design and development of various predictive tools for improved shop floor efficiency,
+      -Design of a daily production scheduling algorithm and software,
+      -Designing user interfaces and ERP integration functions for the software used on industrial computers on the shop floor,
+      -Development of a bill of materials error checking software,
+      -Capacity planning, facility layout design, simulation of the production flow on a discrete event simulation software, and reporting the results.
+    In addition to those tasks, I have also been trained as an internal auditor and took part in the integrated management systems internal audits (ISO 9001, ISO 14001, and ISO 45001).
 
-- company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
-  positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
-    responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
