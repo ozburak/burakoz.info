@@ -15,15 +15,14 @@ experiences:
     url: "https://hec.ca"
     location: Montréal
     # company overview
-    overview: HEC Montréal is one of the leading business schools in Canada.
+    overview: "HEC Montréal is one of the leading business schools in Canada. Here, I taught the course 'Information Technologies in Organizations' to classes of 70 students for two semesters, both in-person."
   positions:
-  - designation: "Instructor: Information Technologies in Organizations"
+  - designation: "Instructor"
     start: Aug 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     end: Dec 2022
     # give some points about what was your responsibilities at the company.
     responsibilities:
-      - I taught this course to classes of 70 students for two semesters, both in-person.
       - Value of information technologies, business intelligence, and business analytics,
       - Managing an information technology project,
       - Business Process Management Notation (BPMN) diagrams,
@@ -36,13 +35,12 @@ experiences:
     name: FNSS Savunma Sistemleri A.S.
     url: "https://www.fnss.com.tr"
     location: Ankara
-    overview: FNSS Savunma Sistemleri is a leading company in the defense industry of Turkey. It is specialized in the design and production of armored land vehicles.
+    overview: FNSS Savunma Sistemleri is a leading company in the defense industry of Turkey. It is specialized in the design and production of armored land vehicles. I took different roles in various projects with IT in manufacturing at the center of their vision. Some examples include;
   positions:
   - designation: Manufacturing Engineer
     start: Jun 2016
     end: Jun 2019
-    responsibilities:
-      - I took different roles in various projects with IT in manufacturing at the center of their vision. Some examples include;
+    responsibilities: 
       - In-house development of a 'paperless shop floor' manufacturing execution system with full ERP integration,
       - Design and development of various predictive tools for improved shop floor efficiency,
       - Design of a daily production scheduling algorithm and software,
@@ -55,11 +53,10 @@ experiences:
     name: Siemens Mobility
     url: "https://www.mobility.siemens.com/global/en.html"
     location: Istanbul
-    overview: Siemens Mobility is the transportation division of the German giant. It provides sustainable public transport solutions, mainly for rail.
+    overview: Siemens Mobility is the transportation division of the German giant. It provides sustainable public transport solutions, mainly for rail. As a public transportation nerd, I have always been interested in beautiful giants, especially the ones in the form of buses, trains, and systems consisting of hundreds of them. Therefore, Siemens Mobility was the best kindergarden with nice toys to look at, and I had one of the most enjoyable internship experiences there.
+      In my two-month intrenship, I developed an algorithm to solve a cable-packing problem to load trucks more efficiently. Then, I implemented that algorithm on Excel VBA and designed an Excel file in the form of a 'Decision Support System.' This little piece of software saved an expert's 10 hours a month, approximately.
+
   positions:
   - designation: Intern
     start: Jun 2015
     end: Jul 2015
-    responsibilities:
-    - I am a public transportation nerd! I have always been interested in beautiful giants, especially the ones in the form of buses, trains, and systems consisting of hundreds of them. Therefore, Siemens Mobility was the best kindergarden with nice toys to look at, and I had one of the most enjoyable internship experiences there.
-    - In my two-month intrenship, I developed an algorithm to solve a cable-packing problem to load trucks more efficiently. Then, I implemented that algorithm on Excel VBA and designed an Excel file in the form of a 'Decision Support System.' This little piece of software saved an expert's 10 hours a month, approximately.
