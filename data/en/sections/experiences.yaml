@@ -23,7 +23,7 @@ experiences:
     end: Dec 2022
     # give some points about what was your responsibilities at the company.
     responsibilities:
-      -I taught this course to classes of 70 students for two semesters, both in-person.
+      - I taught this course to classes of 70 students for two semesters, both in-person.
       - Value of information technologies, business intelligence, and business analytics,
       - Managing an information technology project,
       - Business Process Management Notation (BPMN) diagrams,
@@ -42,14 +42,14 @@ experiences:
     start: Jun 2016
     end: Jun 2019
     responsibilities:
-      -I took different roles in various projects with IT in manufacturing at the center of their vision. Some examples include;
+      - I took different roles in various projects with IT in manufacturing at the center of their vision. Some examples include;
       - In-house development of a 'paperless shop floor' manufacturing execution system with full ERP integration,
       - Design and development of various predictive tools for improved shop floor efficiency,
       - Design of a daily production scheduling algorithm and software,
       - Designing user interfaces and ERP integration functions for the software used on industrial computers on the shop floor,
       - Development of a bill of materials error checking software,
       - Capacity planning, facility layout design, simulation of the production flow on a discrete event simulation software, and reporting the results.
-      -In addition to those tasks, I have also been trained as an internal auditor and took part in the integrated management systems internal audits (ISO 9001, ISO 14001, and ISO 45001).
+      - In addition to those tasks, I have also been trained as an internal auditor and took part in the integrated management systems internal audits (ISO 9001, ISO 14001, and ISO 45001).
 
 - company:
     name: Siemens Mobility
