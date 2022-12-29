@@ -17,7 +17,7 @@ experiences:
     # company overview
     overview: HEC Montréal is one of the leading business schools in Canada.
   positions:
-  - designation: Instructor: Information Technologies in Organizations
+  - designation: "Instructor: Information Technologies in Organizations"
     start: Aug 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     end: Dec 2022
