@@ -43,7 +43,7 @@ publications:
   paper:
     summary: "In this century, climate change should be what we're talking and thinking about the most. I want to believe that we are getting there, albeit slowly. So my co-authors and I wanted to see how business education does in catching up with the changing needs of the humanity. In this literature review, we try to identify the IT-based teaching innovations that are used to introduce sustainability issues into business school classrooms. We identified that there is a need for a teaching innovation that integrates both sustainability and profit-oriented objectives in a realistic setting. One year after we published this literature review, we managed to publish the first version of 'ERPsim Logistics Sustainability' to address this identified need."
     url: https://aisel-aisnet-org.proxy2.hec.ca/cgi/viewcontent.cgi?article=1171&context=amcis2021
-  categories: ["machinelearning","image-processing"]
+  categories: ["teaching","it"]
   tags: ["Climate Change", "Sustainability", "Teaching", "Literature Review"]
 
 - title: Using Digital Nudges on Analytics Dashboards to Reduce Anchoring Bias
