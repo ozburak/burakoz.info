@@ -3,7 +3,7 @@ section:
   name: Publications
   id: publications
   enable: true
-  weight: 3
+  weight: 2
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -26,51 +26,53 @@ buttons:
 
 # your publications
 publications:
-- title: An Example Paper on Machine Learning
+- title: IT-Based Learning Tools to Introduce Sustainability Problems to Management Students: A Scoping Review
   publishedIn:
-    name: 2020 IEEE Region Symposium (TENSYMP)
-    date: 7 June 2020
-    url: https://example.com
+    name: AMCIS 2021
+    date: June 2021
+    url: https://aisel-aisnet-org.proxy2.hec.ca/cgi/viewcontent.cgi?article=1171&context=amcis2021
   authors:
-  - name: Dr. Madman
-    url: https://example.com
-  - name: Dr. Lessmad
-    url: https://example.com
-  - name: Dr. Moremad
-    url: https://example.com
-  - name: Dr. Goodman
-    url: https://example.com
+  - name: Burak Oz
+    url: https://burakoz.info
+  - name: Sena Onen Oz
+    url: https://senaonen.com
+  - name: Prof. Jacques Robert
+    url: https://www.hec.ca/en/profs/jacques.robert.html
+  - name: Prof. Pierre-Majorique Léger
+    url: https://www.hec.ca/profs/pierre-majorique.leger.html
   paper:
-    summary: Voluptate in id id voluptate laboris. Minim mollit aliquip sit aliqua ut exercitation voluptate eiusmod consequat pariatur sunt enim veniam. Velit esse tempor laboris anim tempor officia. Magna non labore duis do esse sit do ipsum culpa. Officia consequat id non duis culpa dolor. Excepteur magna non nostrud cupidatat aute aliqua aliquip.
-    url: https://example.com
+    summary: "In this century, climate change should be what we're talking and thinking about the most. I want to believe that we are getting there, albeit slowly. So my co-authors and I wanted to see how business education does in catching up with the changing needs of the humanity. In this literature review, we try to identify the IT-based teaching innovations that are used to introduce sustainability issues into business school classrooms. We identified that there is a need for a teaching innovation that integrates both sustainability and profit-oriented objectives in a realistic setting. One year after we published this literature review, we managed to publish the first version of 'ERPsim Logistics Sustainability' to address this identified need."
+    url: https://aisel-aisnet-org.proxy2.hec.ca/cgi/viewcontent.cgi?article=1171&context=amcis2021
   categories: ["machinelearning","image-processing"]
-  tags: ["Machine Learning", "Autonomous Driving", "Computer Vision"]
+  tags: ["Climate Change", "Sustainability", "Teaching", "Literature Review"]
 
-- title: An Sample Paper on Image Processing
+- title: Using Digital Nudges on Analytics Dashboards to Reduce Anchoring Bias
   publishedIn:
-    name: 2020 IEEE Region Symposium (TENSYMP)
-    date: 7 June 2020
-    url: https://example.com
+    name: ICIS SIGHCI 2020
+    date: December 2020
+    url: https://aisel-aisnet-org.proxy2.hec.ca/sighci2020/3
   authors:
-  - name: Dr. Madman
-    url: https://example.com
-  - name: Dr. Lessmad
-    url: https://example.com
-  - name: Dr. Moremad
-    url: https://example.com
-  - name: Dr. Goodman
-    url: https://example.com
+  - name: Burak Oz
+    url: https://burakoz.info
+  - name: Kevin Tran-Nguyen
+    url: https://www.kevintn.com/
+  - name: Dr. Constantinos K. Coursaris
+    url: https://www.hec.ca/en/profs/constantinos.coursaris.html
+  - name: Prof. Jacques Robert
+    url: https://www.hec.ca/en/profs/jacques.robert.html
+  - name: Prof. Pierre-Majorique Léger
+    url: https://www.hec.ca/profs/pierre-majorique.leger.html
   paper:
-    summary: Ullamco magna minim cupidatat Lorem ea ex aliqua fugiat et. Dolor quis cillum ea duis irure et commodo aliquip consectetur ullamco labore ut anim nisi. Commodo reprehenderit est consectetur tempor adipisicing occaecat exercitation amet do aliquip dolor do irure. Labore officia ut magna pariatur reprehenderit et ex sit sunt. Magna proident ullamco adipisicing sit.
-    url: https://example.com
-  categories: ["image-processing"]
-  tags: ["Image Processing", "Computer Vision"]
+    summary: "Does seeing an algorithm's suggestions constrain experts' thought process? Kahneman and Tversky's research studies shows that people stay under the influence of first impressions, which is defined as the 'anchoring effect.' The anchoring effect happens in professionals' interactions with decision aids, for example when they see an algorithm's sales forecasts. In this research, we designed an interesting online experiment to see if the anchoring bias can be mitigated. We designed two digital nudges -subtle design changes on the user interfaces- to counter the anchoring bias. Our results show that an informative digital nudge is effective in reducing anchoring bias and increasing decision performance, but only if users are technically knowledgeable in their field of work. In other words, digital nudges can be the solution for experienced and knowledgeable employees. However, for novices, training programs and other practices should be preferred instead of digital nudges."
+    url: https://aisel-aisnet-org.proxy2.hec.ca/sighci2020/3
+  categories: ["digitalnudging","scm","it"]
+  tags: ["Cognitive Biases", "Decision-Making", "Digital Nudging", "Supply Chain Management", "Information Technologies"]
 
 - title: Order picking oriented storage assignment problem in a vertical lift module system
   publishedIn:
     name: METU Thesis Library
     date: December 2019
-    url: https://open.metu.edu.tr/bitstream/handle/11511/45232/index.pdf
+    url: https://scholar.google.com/citations?user=SVOmyA8AAAAJ&hl=fr
   authors:
   - name: Burak Oz
     url: https://burakoz.info
