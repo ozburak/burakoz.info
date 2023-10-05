@@ -13,7 +13,7 @@ description: Personal webpage and blog of Burak Öz.
 # they will be separated by a divider from the main menus.
 customMenus:
 - name: Docs
-  url: https://toha-guides.netlify.app/posts/
+  url: https://oyun.online
   # specify whether to hide the menu item from top navbar or not.
   hideFromNavbar: true
   # specify whether to show the menu item in footer or not.
