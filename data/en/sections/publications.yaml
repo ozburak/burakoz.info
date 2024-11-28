@@ -23,65 +23,105 @@ buttons:
   filter: "digitalnudging"
 - name: Teaching
   filter: "teaching"
-
-# your publications
+  
+# Your publications
 publications:
-- title: "IT-Based Learning Tools to Introduce Sustainability Problems to Management Students: A Scoping Review"
+- title: "The Impact of Generative AI Transparency and Explainability on Decision Performance"
   publishedIn:
-    name: AMCIS 2021
-    date: June 2021
-    url: https://aisel-aisnet-org.proxy2.hec.ca/cgi/viewcontent.cgi?article=1171&context=amcis2021
+    name: SIGHCI 2024 Proceedings. SIGHCI Pre-ICIS Workshop
+    date: Forthcoming
   authors:
   - name: Burak Oz
     url: https://burakoz.info
-  - name: Sena Onen Oz
-    url: https://senaonen.com
-  - name: Prof. Jacques Robert
-    url: https://www.hec.ca/en/profs/jacques.robert.html
-  - name: Prof. Pierre-Majorique Léger
-    url: https://www.hec.ca/profs/pierre-majorique.leger.html
-  paper:
-    summary: "In this century, climate change should be what we're talking and thinking about the most. I want to believe that we are getting there, albeit slowly. So my co-authors and I wanted to see how business education does in catching up with the changing needs of the humanity. In this literature review, we try to identify the IT-based teaching innovations that are used to introduce sustainability issues into business school classrooms. We identified that there is a need for a teaching innovation that integrates both sustainability and profit-oriented objectives in a realistic setting. One year after we published this literature review, we managed to publish the first version of 'ERPsim Logistics Sustainability' to address this identified need."
-    url: https://aisel-aisnet-org.proxy2.hec.ca/cgi/viewcontent.cgi?article=1171&context=amcis2021
-  categories: ["teaching","it"]
-  tags: ["Climate Change", "Sustainability", "Teaching", "Literature Review"]
-
-- title: Using Digital Nudges on Analytics Dashboards to Reduce Anchoring Bias
-  publishedIn:
-    name: ICIS SIGHCI 2020
-    date: December 2020
-    url: https://aisel-aisnet-org.proxy2.hec.ca/sighci2020/3
-  authors:
-  - name: Burak Oz
-    url: https://burakoz.info
-  - name: Kevin Tran-Nguyen
-    url: https://www.kevintn.com/
-  - name: Dr. Constantinos K. Coursaris
+  - name: Aliatta Mussaferzada
+  - name: Constantinos K. Coursaris
     url: https://www.hec.ca/en/profs/constantinos.coursaris.html
-  - name: Prof. Jacques Robert
-    url: https://www.hec.ca/en/profs/jacques.robert.html
-  - name: Prof. Pierre-Majorique Léger
+  - name: Sylvain Senecal
+    url: https://www.hec.ca/en/profs/sylvain.senecal.html
+  - name: Pierre-Majorique Léger
     url: https://www.hec.ca/profs/pierre-majorique.leger.html
   paper:
-    summary: "Does seeing an algorithm's suggestions constrain experts' thought process? Kahneman and Tversky's research studies shows that people stay under the influence of first impressions, which is defined as the 'anchoring effect.' The anchoring effect happens in professionals' interactions with decision aids, for example when they see an algorithm's sales forecasts. In this research, we designed an interesting online experiment to see if the anchoring bias can be mitigated. We designed two digital nudges -subtle design changes on the user interfaces- to counter the anchoring bias. Our results show that an informative digital nudge is effective in reducing anchoring bias and increasing decision performance, but only if users are technically knowledgeable in their field of work. In other words, digital nudges can be the solution for experienced and knowledgeable employees. However, for novices, training programs and other practices should be preferred instead of digital nudges."
-    url: https://aisel-aisnet-org.proxy2.hec.ca/sighci2020/3
-  categories: ["digitalnudging","scm","it"]
-  tags: ["Cognitive Biases", "Decision-Making", "Digital Nudging", "Supply Chain Management", "Information Technologies"]
+    summary: "This study explores how the transparency and explainability of generative AI impact decision performance, providing insights for developing more effective AI decision-making tools."
+    url: 
 
-- title: Order picking oriented storage assignment problem in a vertical lift module system
+- title: "The Dynamics of Collaborative Decision-Making with Intelligent Systems"
   publishedIn:
-    name: METU Thesis Library
-    date: December 2019
-    url: https://scholar.google.com/citations?user=SVOmyA8AAAAJ&hl=fr
+    name: HCI International 2023 – Late Breaking Posters
+    date: 2024
+    url: https://link.springer.com/chapter/10.1007/978-3-031-49215-0_20
   authors:
   - name: Burak Oz
     url: https://burakoz.info
-  - name: Dr. Sakine Batun
-    url: https://scholar.google.com/citations?user=SVOmyA8AAAAJ&hl=en&oi=ao
-  - name: Prof. Haldun Sural
-    url: https://scholar.google.com.au/citations?user=sv-eCq0AAAAJ&hl=en
+  - name: Alexander John Karran
+  - name: Joerg Beringer
+  - name: Constantinos K. Coursaris
+    url: https://www.hec.ca/en/profs/constantinos.coursaris.html
+  - name: Pierre-Majorique Léger
+    url: https://www.hec.ca/profs/pierre-majorique.leger.html
   paper:
-    summary: A super fun and practically relevant work on optimizing order picking times of vertical lift modules. A mathematical model to locate parts that are requested together on the same tray so that operators wait for less machine tray changes.
-    url: https://open.metu.edu.tr/bitstream/handle/11511/45232/index.pdf
-  categories: ["scm"]
-  tags: ["Optimization", "Mathematical Modelling", "Simulation", "Efficiency"]
+    summary: "A study on how intelligent systems influence collaborative decision-making dynamics, with applications for organizational and workplace contexts."
+    url: https://link.springer.com/chapter/10.1007/978-3-031-49215-0_20
+  categories: ["decision-making","hci"]
+  tags: ["Collaboration", "AI", "Decision-Making", "Human-Computer Interaction"]
+
+- title: "The Nature and Dimensionality of Cognitive Absorption: A Critical Review and Meta-Analysis"
+  publishedIn:
+    name: SIGHCI 2023 Proceedings. SIGHCI Pre-ICIS Workshop
+    date: 2024
+    url: https://aisel.aisnet.org/sighci2023/18/
+  authors:
+  - name: Burak Oz
+    url: https://burakoz.info
+  - name: Constantinos K. Coursaris
+    url: https://www.hec.ca/en/profs/constantinos.coursaris.html
+  - name: Jacques Robert
+    url: https://www.hec.ca/en/profs/jacques.robert.html
+  - name: Pierre-Majorique Léger
+    url: https://www.hec.ca/profs/pierre-majorique.leger.html
+  paper:
+    summary: "A comprehensive meta-analysis examining the dimensionality of cognitive absorption and its implications for research in human-computer interaction."
+    url: https://aisel.aisnet.org/sighci2023/18/
+  categories: ["cognitive-science", "meta-analysis"]
+  tags: ["Cognitive Absorption", "Meta-Analysis", "HCI", "AI"]
+
+- title: "The Role of User Control in Enhancing Human-AI Collaboration Effectiveness: Insights from a Pilot Study"
+  publishedIn:
+    name: NeuroIS Retreat 2023, Vienna, Austria
+    date: 2024
+    url: https://link.springer.com/chapter/10.1007/978-3-031-58396-4_15
+  authors:
+  - name: Burak Oz
+    url: https://burakoz.info
+  - name: Alexander John Karran
+  - name: Jared Boasen
+  - name: Constantinos K. Coursaris
+    url: https://www.hec.ca/en/profs/constantinos.coursaris.html
+  - name: Pierre-Majorique Léger
+    url: https://www.hec.ca/profs/pierre-majorique.leger.html
+  paper:
+    summary: "This pilot study examines how user control can enhance collaboration between humans and AI in decision-making scenarios."
+    url: https://link.springer.com/chapter/10.1007/978-3-031-58396-4_15
+  categories: ["collaboration", "ai"]
+  tags: ["AI Collaboration", "Human-AI Interaction", "NeuroIS"]
+
+- title: "Responsible Artificial Intelligence in Knowledge Work: User Experience Design Problems and Implications"
+  publishedIn:
+    name: HCI International 2022 – Late Breaking Papers
+    date: 2022
+    url: https://link.springer.com/chapter/10.1007/978-3-031-21707-4_32
+  authors:
+  - name: Burak Oz
+    url: https://burakoz.info
+  - name: Ruojun Wang
+  - name: Chantel Chandler
+  - name: Alexander John Karran
+  - name: Constantinos K. Coursaris
+    url: https://www.hec.ca/en/profs/constantinos.coursaris.html
+  - name: Pierre-Majorique Léger
+    url: https://www.hec.ca/profs/pierre-majorique.leger.html
+  paper:
+    summary: "Explores user experience challenges in adopting responsible AI for knowledge work, highlighting implications for effective UX design."
+    url: https://link.springer.com/chapter/10.1007/978-3-031-21707-4_32
+  categories: ["responsible-ai","ux"]
+  tags: ["User Experience", "Responsible AI", "Knowledge Work"]
+
