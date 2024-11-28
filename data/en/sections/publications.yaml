@@ -184,4 +184,4 @@ publications:
     summary: A super fun and practically relevant work on optimizing order picking times of vertical lift modules. A mathematical model to locate parts that are requested together on the same tray so that operators wait for less machine tray changes.
     url: https://open.metu.edu.tr/bitstream/handle/11511/45232/index.pdf
   categories: ["scm"]
-  tags: ["Optimization", "Mathematical Modelling", "Simulation", "Efficiency"]"
+  tags: ["Optimization", "Mathematical Modelling", "Simulation", "Efficiency"]
