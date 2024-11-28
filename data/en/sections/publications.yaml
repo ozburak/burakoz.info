@@ -42,8 +42,8 @@ publications:
     url: https://www.hec.ca/profs/pierre-majorique.leger.html
   paper:
     summary: "This study explores how the transparency and explainability of generative AI impact decision performance, providing insights for developing more effective AI decision-making tools."
-  tags:["Generative AI","Supply Chain Management","Decision-Making with AI","SAP","Eye-Tracking"]
-  categories:["is","ai","scm","dm"] 
+  tags: ["Generative AI","Supply Chain Management","Decision-Making with AI","SAP","Eye-Tracking"]
+  categories: ["is","ai","scm","dm"] 
 
 - title: "The Dynamics of Collaborative Decision-Making with Intelligent Systems"
   publishedIn:
